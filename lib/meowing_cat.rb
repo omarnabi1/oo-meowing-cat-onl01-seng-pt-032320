@@ -7,4 +7,4 @@ def meow
   puts "meow!"
 end
 
-puts meow 
+maru.meow
